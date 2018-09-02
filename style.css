@@ -14,3 +14,8 @@
 .main-navigation ul:before {
 	display: none;
 }
+
+.screen-reader-text {
+	width: 1px !important;
+	height: 1px !important;
+}
